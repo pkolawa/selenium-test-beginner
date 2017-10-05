@@ -1,0 +1,25 @@
+{
+  "name": "selenium-test-beginner",
+  "version": "1.0.0",
+  "description": "Boilerplate for Selenium test - level Beginner",
+  "main": "index.js",
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pkolawa/selenium-test-beginner.git"
+  },
+  "author": "Piotr Kolawa",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pkolawa/selenium-test-beginner/issues"
+  },
+  "homepage": "https://github.com/pkolawa/selenium-test-beginner#readme",
+  "dependencies": {
+    "selenium-webdriver": "^3.5.0"
+  }
+}
